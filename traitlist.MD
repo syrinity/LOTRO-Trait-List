@@ -118,8 +118,8 @@ Securing the Wade begins quests in West Rohan with the Epic Quest line: Volume I
   - [ ] [87] Edoras: A Royal Mess
   - [ ] [87] Edoras: A Woven Tale
   - [ ] [87] Edoras: A Dreary Prospect
-  - [ ] [87] Edoras: In Need of Cheering-up
-    - [ ] [86] Instance: In Need of Cheering-up
+  - [ ] [87] Edoras: In Need of Cheering up
+   - [ ] [86] Instance: In Need of Cheering up
   
   Éowin, at the completion of the Edoras quests ( Edoras: Lady Éowyn's Charge), still shows the "quest in progress" as "Volume III, Book 12, Chapter 1: Message for Harrowdale you can follow that quest to Harrowdale or one of the other vector quests to other areas (Middlemead, Eastfold and Broadacres).  
   If you're doing this for the nth time on an alt, you can save some time once you get the quest "Moving a City" you can just talk to the 3 people and not pick up the side quests. Ignore the Poetry quest, and go directly to the mead hall afterward, you will reach "In need of Cheering" fastest that way, but miss a lot of the story. A similar strategy can be used as you do the rest of the quests, assuming you don't mind missing some story, reputation, and experience.  
